@@ -1,21 +1,21 @@
 //Ini untuk setting Bot//
 
 //『 Utama 』 //
-global.owner = ['6282xxxxxx'] 
-global.mods = ['6282xxxxxx'] 
-global.prems = ['6282xxxxxx'] 
+global.owner = ['6283193831650'] 
+global.mods = ['6283193831650'] 
+global.prems = ['6283193831650'] 
 
 //『 Info Owner 』 //
-global.nameowner = '⫹⫺ Owner'
-global.numberowner = '6282xxxxxx'
+global.nameowner = '⫹⫺ Owner Ku😎'
+global.numberowner = '6283193831650'
 global.instagram = 'https://instagram.com/prm2.0'
-global.github = 'https://github.com/BOTCAHX'
-global.dana = '6282xxxxxx'
-global.pulsa = '6282xxxxxx'
+global.github = 'https://github.com/ArsyadBot'
+global.dana = '085393003269'
+global.pulsa = '6283193831650'
 global.gopay = ''
 
 //『 Info Bot 』//
-global.namebot = 'R-txzyMd'
+global.namebot = 'Dars Bot'
 global.gc = 'https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL'
 global.web = 'https://myblogxyz.netlify.app' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
@@ -25,10 +25,10 @@ global.fotonya1 = 'https://botcahx-rest-api.herokuapp.com/api/textpro/marvel-stu
 global.fotonya2 = 'https://botcahx-rest-api.herokuapp.com/api/textpro/marvel-studios?text=List%20&text2=Menu' 
 global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© R-TXZY-MD'
+global.wm = '© R-Arsyad'
 global.watermark = wm
-global.wm2 = '⫹⫺ R-TXZY-MD'
-global.wm3 = '© R-TXZY-MD'
+global.wm2 = '⫹⫺ R-Arsyad'
+global.wm3 = '© R-Arsyad'
 global.wm4 = 'Ⓛ = Limit Ⓟ = Premium'
 global.htki = '––––––『' 
 global.htka = '』––––––'
@@ -39,8 +39,8 @@ global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
-global.packname = 'Made with'
-global.author = 'Bot WhatsApp\nR-TXZY-MD'
+global.packname = 'dibuat dari'
+global.author = 'Bot WhatsApp\nR-Arsyad'
 
 //『 Apikey 』 //
 global.APIs = { // API Prefix
